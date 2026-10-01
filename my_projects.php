@@ -35,8 +35,8 @@ $result = $sql->get_result();
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ms-auto align-items-lg-center">
-                <li class="nav-item"><a class="nav-link active" href="dashboard.php">Dashboard</a></li>
-                <li class="nav-item"><a class="nav-link" href="my_projects.php">My Projects</a></li>
+                <li class="nav-item"><a class="nav-link " href="dashboard.php">Dashboard</a></li>
+                <li class="nav-item"><a class="nav-link active" href="my_projects.php">My Projects</a></li>
                 <li class="nav-item ms-lg-3"><a class="btn btn-danger" href="logout.php">Logout</a></li>
             </ul>
         </div>
